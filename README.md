@@ -12,11 +12,11 @@ There are a few things you must set up before you can run this project.
 5. Add the jstl jar file
 6. Make sure that the jstl depency is added to your pom.xml file
 
-<dependency>
+"<dependency>
             <groupId>jstl</groupId>
             <artifactId>jstl</artifactId>
             <version>1.2</version>
             <scope>compile</scope>
-        </dependency>
+        </dependency>"
         
-Now yoy are able to build and then run this project.
+Now you are able to build and then run this project.
